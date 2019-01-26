@@ -62,6 +62,7 @@ spec:
       containers:
       - name: address-book
         image: scholzj/kafka-address-book:latest
+        imagePullPolicy: IfNotPresent
         env:
           - name: CA_CRT
             valueFrom:

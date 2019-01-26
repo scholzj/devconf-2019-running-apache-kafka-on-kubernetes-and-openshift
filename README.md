@@ -2,7 +2,7 @@
 
 This repository contains the demos from my talk about [Strimzi Kafka operator](http://strimzi.io) at [DevConf.CZ](https://devconf.info/cz).
 
-* Slides: [Google Docs](https://todo)
+* Slides: [Google Docs](https://docs.google.com/presentation/d/1Gr5or4-zzLCx54d5STCfn5ItX8hweQIcnj_2k_yZX8c/edit?usp=sharing)
 
 ## Preparation
 
